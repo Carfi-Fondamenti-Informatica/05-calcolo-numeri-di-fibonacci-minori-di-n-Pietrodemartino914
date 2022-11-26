@@ -22,6 +22,8 @@ void fibonacci (int n) {
         }
 
     }else if (n == 1) {
+                cout<< "1"<<endl;
+
         cout << "1" << endl;
         }
     }
